@@ -1,0 +1,50 @@
+Version 1.0.5: (11/12/2011)
+ * Campaign:
+   * Fixed all (I hope) spelling mistakes.
+   * Implemented Tanfa's dialog.
+   * Cleaned up the {RECALL_FRIEND} macro.
+   * Implemented the {ATTACK_DEPTH4} macro.
+   * Fixed a bug causing gryphons to be given the "Friend" role.
+   * Sound sources have been implemented throughout.
+ * The Beginning of the End:
+   * New time over and flavor dialog.
+   * Added a note about the recruit system.
+ * Playing the Game:
+   * Added Tanfa, a new character.
+ * Left to Die:
+   * Added more flavor dialog.
+   * Made the scenario end if player kills Rovistar.
+   * Placed campfire next to the player's camp.
+   * Changed the ship's colors to red.
+ * Sign of Hope:
+   * Changed the 'stalkers' to loyal units.
+   * Made the nest's location random.
+ * A Message For Magi:
+   * Rewrote the story part to be more in-depth.
+ * Prince of Evil:
+   * Hid teams more thoroughly.
+   * Changed the cave-in to something else.
+ * Foretold Doom:
+   * Fixed a bug that occurs if you killed Dwarner previously.
+ * The Emperor's Demand:
+   * Added more dialog at the end.
+ * Taking Them to the Skies:
+   * Labeled an objective as optional.
+   * Made it easier to break the dam.
+
+Version 1.0.3: (10/19/2011)
+ * Campaign:
+   * Improved most of the maps.
+ * Foretold Doom:
+   * Minor fixes to the dialog.
+   * Made it truly impossible to kill Evad.
+
+Version 1.0.2: (10/11/2011)
+ * Campaign:
+   * Fixed an error causing the campaign to be unplayable for Linux and Mac users
+ * Prologue:
+   * Changed Alitar's unit type to a Lieutenant.
+   * Fixed spelling errors.
+   
+Version 1.0.1: (10/9/2011)
+ * The Fall of Wesnoth is released!
