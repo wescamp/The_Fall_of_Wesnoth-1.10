@@ -1,3 +1,13 @@
+Version 1.0.6: (11/28/2011)
+ * Campaign:
+   * Removed 4th difficulty macros from campaign's util file.
+ * The Beginning of the End:
+   * Stopped allied leaders from sharing their keep with Alitar.
+ * Taking Them to the Skies:
+   * Fixed an invalid text bug.
+ * Heroes Burden:
+   * Fixed spelling error.
+
 Version 1.0.5: (11/12/2011)
  * Campaign:
    * Fixed all (I hope) spelling mistakes.
