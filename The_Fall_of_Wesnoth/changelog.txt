@@ -1,3 +1,9 @@
+Version 1.0.7: (1/20/2012)
+ * Campaign:
+   * UMC Music is now inside the campaigns repository.
+ * The Beginning of the End:
+   * Fixed a bug causing the placement of a vampire.
+
 Version 1.0.6: (11/28/2011)
  * Campaign:
    * Removed 4th difficulty macros from campaign's util file.
