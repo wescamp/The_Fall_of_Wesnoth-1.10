@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branch 1.10\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2012-02-22 15:29+0100\n"
+"PO-Revision-Date: 2012-02-22 15:29+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+
+#. [unit_type]: id=Rogue Warrior, race=human
+#: The_Fall_of_Wesnoth/units/humans/Rogue_Warrior.cfg:4
+msgid "Rogue Warrior"
+msgstr ""
+
+#. [unit_type]: id=Rogue Warrior, race=human
+#: The_Fall_of_Wesnoth/units/humans/Rogue_Warrior.cfg:31
+msgid ""
+"A noble by birth, the Prince has learnt swordplay with the greatest "
+"generals, and battle tactics with the greatest sages, making him both a "
+"great combatant and leader. Now battle-hardened and strong of will, he can "
+"now aid those around him in the art of combat."
+msgstr ""
+
+#. [attack]: type=blade
+#: The_Fall_of_Wesnoth/units/humans/Rogue_Warrior.cfg:35
+msgid "sword"
+msgstr ""
